@@ -1,0 +1,12 @@
+C:\Users\anjoy\.NET Development Work\_Net_random\Net-Random\Net_Unit_Testing_Practice\Math\bin\Debug\net5.0\Math.deps.json
+C:\Users\anjoy\.NET Development Work\_Net_random\Net-Random\Net_Unit_Testing_Practice\Math\bin\Debug\net5.0\Math.dll
+C:\Users\anjoy\.NET Development Work\_Net_random\Net-Random\Net_Unit_Testing_Practice\Math\bin\Debug\net5.0\ref\Math.dll
+C:\Users\anjoy\.NET Development Work\_Net_random\Net-Random\Net_Unit_Testing_Practice\Math\bin\Debug\net5.0\Math.pdb
+C:\Users\anjoy\.NET Development Work\_Net_random\Net-Random\Net_Unit_Testing_Practice\Math\obj\Debug\net5.0\Math.csprojAssemblyReference.cache
+C:\Users\anjoy\.NET Development Work\_Net_random\Net-Random\Net_Unit_Testing_Practice\Math\obj\Debug\net5.0\Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anjoy\.NET Development Work\_Net_random\Net-Random\Net_Unit_Testing_Practice\Math\obj\Debug\net5.0\Math.AssemblyInfoInputs.cache
+C:\Users\anjoy\.NET Development Work\_Net_random\Net-Random\Net_Unit_Testing_Practice\Math\obj\Debug\net5.0\Math.AssemblyInfo.cs
+C:\Users\anjoy\.NET Development Work\_Net_random\Net-Random\Net_Unit_Testing_Practice\Math\obj\Debug\net5.0\Math.csproj.CoreCompileInputs.cache
+C:\Users\anjoy\.NET Development Work\_Net_random\Net-Random\Net_Unit_Testing_Practice\Math\obj\Debug\net5.0\Math.dll
+C:\Users\anjoy\.NET Development Work\_Net_random\Net-Random\Net_Unit_Testing_Practice\Math\obj\Debug\net5.0\ref\Math.dll
+C:\Users\anjoy\.NET Development Work\_Net_random\Net-Random\Net_Unit_Testing_Practice\Math\obj\Debug\net5.0\Math.pdb
